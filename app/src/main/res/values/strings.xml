@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckVersion_ApiLevel_Android</string>
+    <string name="button_text_runcode">Run Code</string>
+    <string name="button_text_clear">Clear</string>
+</resources>
